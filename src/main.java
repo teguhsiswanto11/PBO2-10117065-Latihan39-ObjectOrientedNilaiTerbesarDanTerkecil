@@ -30,7 +30,7 @@ public class main {
         dafNilai.hasilNilaiMhs();
 
         System.out.println("\nNilai Terbesar adalah "+dafNilai.nBesar);
-        System.out.println("Nilai terkecil adalah "+dafNilai.nKecil);
+        System.out.println("Nilai Terkecil adalah "+dafNilai.nKecil);
 
         System.out.print("\nPetugas : "+ptg.namaPetugas);
     }
